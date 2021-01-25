@@ -4,7 +4,7 @@ Project is a react application that serves as a dummy user registrtion form for 
 the phone number should be in ###-###-#### format or the form cannot be submitted.
 
 Because this app is not connected to any services, the data has simply been logged to the console
-to server as 'submission' ofthe form.
+to serve as 'submission' of the form.
 
 ### `yarn start`
 
